@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Tayyab Hayat
 
-BS Information Technology Student at PUCIT
+### BS Information Technology Student | Software Developer | AI/ML Learner
 
 ### 🎯 Current Focus
 
@@ -61,3 +61,62 @@ Currently learning
 Projects
 
 - 🚧 Coming Soon...
+  
+## 🛠 Tech Stack
+
+### Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js" />
+</p>
+
+### Web
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
+
+### Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+</p>
+
+## 📂 Featured Projects
+
+- 🚀 [LeetCode Solutions](https://github.com/tayabhayat/leetcode_solutions)
+- 🔒 [Secure Web Chat Application](https://github.com/tayabhayat/Secure-Web-Base-Chat-Application-with-Encryption)
+- 📚 [Library Management System](https://github.com/tayabhayat/...)
+
+## 📈 Learning Roadmap
+
+### ✅ Completed
+
+- Python
+- Git & GitHub
+- Data Structures & Algorithms
+
+### 🟡 In Progress
+
+- NumPy
+- Pandas
+- Machine Learning
+
+### ⚪ Next Goals
+
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+  
+## 🏆 Achievements
+
+🏅 100+ LeetCode Problems
+
+🏅 Daily Coding Habit
+
+🏅 Built Multiple Software Projects
+
+🏅 AI/ML Portfolio (In Progress)
+
+## 📫 Connect
+
+LinkedIn https://www.linkedin.com/in/tayabhayat/
+
+Email tayabhayat36@gmail.com
