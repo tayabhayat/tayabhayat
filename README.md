@@ -2,10 +2,12 @@
 
 BS Information Technology Student at PUCIT
 
-Currently learning:
-- Python
-- Data Structures & Algorithms
-- Artificial Intelligence & Machine Learning
+### 🎯 Current Focus
+
+- 📚 Strengthening Data Structures & Algorithms
+- 🐍 Learning Python for AI & Machine Learning
+- 💻 Building Software Projects
+- 🚀 Solving LeetCode Daily
 
 ---
 
