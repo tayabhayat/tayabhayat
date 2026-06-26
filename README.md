@@ -35,3 +35,29 @@ BS Information Technology Student at PUCIT
   <img height="170em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayabhayat&layout=compact&theme=github_dark" />
 </p>
+
+## 🚀 Current Journey
+
+I'm a BS Information Technology student at PUCIT who enjoys building software and solving algorithmic problems.
+
+My current focus is developing strong software engineering fundamentals while gradually transitioning into Artificial Intelligence and Machine Learning through practical projects.
+
+### 💻 Software Engineering
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Git & GitHub
+- Linux
+
+### 🤖 AI / Machine Learning
+
+Currently learning
+
+- Python
+- NumPy
+- Pandas
+- Machine Learning Fundamentals
+
+Projects
+
+- 🚧 Coming Soon...
